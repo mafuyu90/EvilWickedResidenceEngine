@@ -1,0 +1,5 @@
+# Wicked Engine survival horror fixed camera data v1
+# camera name room entity center(x y z) half_extents(x y z) hard_cut fade_seconds
+camera hall_entry MansionHall 1001 -2 1 0 3 2 3 1 0
+camera hall_stairs MansionHall 1002 3 1 0 3 2 3 1 0
+camera hall_door MansionHall 1003 0 1 5 4 2 2 0 0.25
