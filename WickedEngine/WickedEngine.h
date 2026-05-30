@@ -76,6 +76,7 @@
 #include "wiPathQuery.h"
 #include "wiTrailRenderer.h"
 #include "wiGaussianSplatModel.h"
+#include "wiSurvivalHorror.h"
 
 #ifndef WICKED_CMAKE_BUILD
 
@@ -130,6 +131,7 @@ namespace wiInitializer = wi::initializer;
 namespace wiJobSystem = wi::jobsystem;
 namespace wiPlatform = wi::platform;
 namespace wiScene = wi::scene;
+namespace wiSurvivalHorror = wi::survivalhorror;
 namespace wiBackLog = wi::backlog;
 namespace wiProfiler = wi::profiler;
 namespace wiVersion = wi::version;
